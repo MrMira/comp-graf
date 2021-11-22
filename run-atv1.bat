@@ -1,0 +1,1 @@
+build.bat && .\build\bin\lookat\lookat.exe | cat
